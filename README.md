@@ -5,8 +5,8 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 
 ## Views
 
-- [CodeEditorView](https://github.com/mchakravarty/CodeEditorView) (iOS/macOS/visionOS, SPM)
 - [CodeEditTextView](https://github.com/CodeEditApp/CodeEditTextView) (macOS, SPM)
+- [CodeEditorView](https://github.com/mchakravarty/CodeEditorView) (iOS/macOS/visionOS, SPM)
 - [Lexical](https://github.com/facebook/lexical-ios) (iOS, SPM)
 - [MarkupEditor](https://github.com/stevengharris/MarkupEditor) (iOS/macCatalyst, SPM)
 - [MetaTextKit](https://github.com/TwidereProject/MetaTextKit) (iOS, SPM)
