@@ -9,20 +9,23 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 - [CodeEditorView](https://github.com/mchakravarty/CodeEditorView) (iOS/macOS/visionOS, SPM)
 - [Lexical](https://github.com/facebook/lexical-ios) (iOS, SPM)
 - [MarkupEditor](https://github.com/stevengharris/MarkupEditor) (iOS/macCatalyst, SPM)
+- [MarkdownEditor](https://github.com/Pallepadehat/MarkdownEditor) (macOS, SPM)
 - [MetaTextKit](https://github.com/TwidereProject/MetaTextKit) (iOS, SPM)
 - [RichTextKit](https://github.com/danielsaidi/RichTextKit) (iOS/macOS/tvOS/watchOS/visionOS, SPM)
 - [Runestone](https://github.com/simonbs/Runestone) (iOS/visionOS, SPM)
 - [SourceView](https://github.com/ChimeHQ/SourceView) (macOS, SPM)
 - [STTextView](https://github.com/krzyzanowskim/STTextView) (macOS/iOS, SPM)
+- [SwiftMarkdownEngine](https://github.com/nodes-app/swift-markdown-engine) (macOS, SPM)
 - [Textual](https://github.com/gonzalezreal/textual) (iOS/macOS/tvOS/watchOS/visionOS, SPM)
 
-### Last Update > 6 Months
+### Packages that Haven't Been Updated Recently
 
 - [AztecEditor](https://github.com/wordpress-mobile/AztecEditor-iOS) (iOS, CocoaPods)
 - [CodeEditor](https://github.com/ZeeZide/CodeEditor) (iOS/macOS/visionOS, SPM/CocoaPods)
 - [CYRTextView](https://github.com/illyabusigin/CYRTextView) (iOS, CocoaPods)
 - [Editor](https://github.com/mmackh/Editor) (macOS/iOS)
 - [Firefly](https://github.com/ActuallyTaylor/Firefly) (iOS, SPM)
+- [HighlightedTextEditor](https://github.com/kyle-n/HighlightedTextEditor)(iOS/macOS/SPM)
 - [NLTextView](https://github.com/srijs/NLTextView) (macOS)
 - [NTYSmartTextView](https://github.com/naoty/NTYSmartTextView) (macOS)
 - [Proton](https://github.com/rajdeep/proton) (iOS/visionOS, SPM)
