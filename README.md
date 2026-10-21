@@ -84,6 +84,7 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 - [HighlighterSwift](https://github.com/smittytone/HighlighterSwift): iOS & Mac Syntax Highlighter.
 - [Neon](https://github.com/ChimeHQ/Neon): A Swift library for efficient, flexible content-based text styling
 - [Splash](https://github.com/JohnSundell/Splash): A fast, lightweight and flexible Swift syntax highlighter for blogs, tools and fun!
+- [SwiftHighlight](https://github.com/CreatureSurvive/SwiftHighlight): Syntax highlighting package written completely in Swift, no JavaScript.
 - [ThemePark](https://github.com/ChimeHQ/ThemePark): A Swift library for working with syntax highlighting/IDE themes
 
 ## Search
