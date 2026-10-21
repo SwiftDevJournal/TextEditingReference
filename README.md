@@ -25,7 +25,7 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 - [CYRTextView](https://github.com/illyabusigin/CYRTextView) (iOS, CocoaPods)
 - [Editor](https://github.com/mmackh/Editor) (macOS/iOS)
 - [Firefly](https://github.com/ActuallyTaylor/Firefly) (iOS, SPM)
-- [HighlightedTextEditor](https://github.com/kyle-n/HighlightedTextEditor)(iOS/macOS/SPM)
+- [HighlightedTextEditor](https://github.com/kyle-n/HighlightedTextEditor)(iOS/macOS, SPM)
 - [NLTextView](https://github.com/srijs/NLTextView) (macOS)
 - [NTYSmartTextView](https://github.com/naoty/NTYSmartTextView) (macOS)
 - [Proton](https://github.com/rajdeep/proton) (iOS/visionOS, SPM)
