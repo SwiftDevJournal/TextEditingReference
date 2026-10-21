@@ -8,13 +8,13 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 - [CodeEditorView](https://github.com/mchakravarty/CodeEditorView) (iOS/macOS/visionOS, SPM)
 - [CodeEditTextView](https://github.com/CodeEditApp/CodeEditTextView) (macOS, SPM)
 - [Lexical](https://github.com/facebook/lexical-ios) (iOS, SPM)
-- [Textual](https://github.com/gonzalezreal/textual) (iOS/macOS/tvOS/watchOS/visionOS, SPM)
 - [MarkupEditor](https://github.com/stevengharris/MarkupEditor) (iOS/macCatalyst, SPM)
 - [MetaTextKit](https://github.com/TwidereProject/MetaTextKit) (iOS, SPM)
 - [RichTextKit](https://github.com/danielsaidi/RichTextKit) (iOS/macOS/tvOS/watchOS/visionOS, SPM)
 - [Runestone](https://github.com/simonbs/Runestone) (iOS/visionOS, SPM)
 - [SourceView](https://github.com/ChimeHQ/SourceView) (macOS, SPM)
 - [STTextView](https://github.com/krzyzanowskim/STTextView) (macOS/iOS, SPM)
+- [Textual](https://github.com/gonzalezreal/textual) (iOS/macOS/tvOS/watchOS/visionOS, SPM)
 
 ### Last Update > 6 Months
 
