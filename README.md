@@ -80,8 +80,8 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 
 ## Syntax Highlighting
 
-- [Highlightr](https://github.com/raspu/Highlightr): iOS & OSX Syntax Highlighter.
 - [HighlightSwift](https://github.com/appstefan/HighlightSwift): Code syntax highlighting in Swift and SwiftUI
+- [HighlighterSwift](https://github.com/smittytone/HighlighterSwift): iOS & Mac Syntax Highlighter.
 - [Neon](https://github.com/ChimeHQ/Neon): A Swift library for efficient, flexible content-based text styling
 - [Splash](https://github.com/JohnSundell/Splash): A fast, lightweight and flexible Swift syntax highlighter for blogs, tools and fun!
 - [ThemePark](https://github.com/ChimeHQ/ThemePark): A Swift library for working with syntax highlighting/IDE themes
