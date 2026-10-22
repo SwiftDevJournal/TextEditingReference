@@ -69,8 +69,8 @@ The original title of this section was views that haven't been updated in more t
 - [Gramophone](https://github.com/ChimeHQ/Gramophone): Swift library for working with Extended Backus–Naur Form (EBNF) notation and grammars
 - [ParseKit](https://github.com/itod/parsekit): Objective-C Tokenizer and Parser Generator. Supports Grammars.
 - [PEGKit](https://github.com/itod/pegkit): 'Parsing Expression Grammar' toolkit for Cocoa/Objective-C
-- tree-sitter/[SwiftTreeSitter](https://github.com/tree-sitter/swift-tree-sitter): Swift API for the tree-sitter incremental parsing system
-- viktorstrate/[SwiftTreeSitter](https://github.com/viktorstrate/swift-tree-sitter): Swift bindings for the tree-sitter parsing library
+- [SwiftTreeSitter](https://github.com/tree-sitter/swift-tree-sitter): Swift API for the tree-sitter incremental parsing system
+- [SwiftTreeSitter](https://github.com/viktorstrate/swift-tree-sitter): Swift bindings for the tree-sitter parsing library
 - [TextMarkupKit](https://github.com/bdewey/TextMarkupKit): Pure-Swift tools for understanding and editing text files with simple markup
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter): An incremental parsing system for programming tools
 
