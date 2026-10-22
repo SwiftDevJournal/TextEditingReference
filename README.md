@@ -18,7 +18,9 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 - [SwiftMarkdownEngine](https://github.com/nodes-app/swift-markdown-engine) (macOS, SPM)
 - [Textual](https://github.com/gonzalezreal/textual) (iOS/macOS/tvOS/watchOS/visionOS, SPM)
 
-### Packages that Haven't Been Updated Recently
+### Other Views
+
+The original title of this section was views that haven't been updated in more than six months. I don't want to be constantly checking when the repo was last updated and shifting them to different sections. Most of the views in this section have not been updated recently.
 
 - [AztecEditor](https://github.com/wordpress-mobile/AztecEditor-iOS) (iOS, CocoaPods)
 - [CodeEditor](https://github.com/ZeeZide/CodeEditor) (iOS/macOS/visionOS, SPM/CocoaPods)
