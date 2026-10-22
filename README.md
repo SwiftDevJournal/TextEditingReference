@@ -43,6 +43,7 @@ The original title of this section was views that haven't been updated in more t
 - [RichTextView](https://github.com/tophat/RichTextView) (iOS, SPM/Carthage/CocoaPods)
 - [SavannaKit](https://github.com/louisdh/savannakit) (iOS/macOS, Carthage/CocoaPods)
 - [SourceEditor](https://github.com/louisdh/source-editor) (iOS/macOS, CocoaPods)
+- [SwiftDown](https://github.com/qeude/SwiftDown) (iOS/macOS, SPM)
 - [SyntaxKit](https://github.com/palle-k/SyntaxKit) (iOS)
 
 ## TextKit Utilities
