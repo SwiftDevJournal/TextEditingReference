@@ -49,7 +49,7 @@ The original title of this section was views that haven't been updated in more t
 
 - [Glyph](https://github.com/ChimeHQ/Glyph): Abstractions for working with TextKit 1 and 2
 - [Ligature](https://github.com/ChimeHQ/Ligature): Text selection, grouping, and manipulation in Swift
-- [Rearrange](https://github.com/ChimeHQ/Rearrange): Swift library for working with ranges types: NSRange, IndexSet, and String.Index
+- [Rearrange](https://github.com/johnrbent/Rearrange): Swift library for working with ranges types: NSRange, IndexSet, and String.Index
 - [STTextKitPlus](https://github.com/krzyzanowskim/STTextKitPlus): Collection of useful TextKit 2 helpers
 - [TextViewBenchmark](https://github.com/ChimeHQ/TextViewBenchmark): A suite of performance tests for macOS text views
 - [TextViewPlus](https://github.com/ChimeHQ/TextViewPlus): Make life better with NSTextView+TextKit 1/2
@@ -58,7 +58,7 @@ The original title of this section was views that haven't been updated in more t
 
 ## Editing Behavior
 
-- [EditorConfig](https://github.com/ChimeHQ/EditorConfig): A Swift library for working with .editorconfig files
+- [EditorConfig](https://github.com/slsrepo/EditorConfig): A Swift library for working with .editorconfig files
 - [IBeam](https://github.com/ChimeHQ/IBeam): A Swift library for multi-cursor support
 - [Borderline](https://github.com/chimeHQ/Borderline): Text line metrics and visualization
 
@@ -76,21 +76,21 @@ The original title of this section was views that haven't been updated in more t
 
 ## Text Manipulation
 
-- [TextFormation](https://github.com/ChimeHQ/TextFormation): Rules system for live typing completions
+- [TextFormation](https://github.com/johnrbent/TextFormation): Rules system for live typing completions
 
 ## Storage
 
 - [RelativeCollections](https://github.com/ChimeHQ/RelativeCollections): Swift collection types that support efficient storage of order-relative values
-- [TextStory](https://github.com/ChimeHQ/TextStory): Happier, more flexible NSTextStorage
+- [TextStory](https://github.com/johnrbent/TextStory): Happier, more flexible NSTextStorage
 
 ## Syntax Highlighting
 
 - [HighlightSwift](https://github.com/appstefan/HighlightSwift): Code syntax highlighting in Swift and SwiftUI
 - [HighlighterSwift](https://github.com/smittytone/HighlighterSwift): iOS & Mac Syntax Highlighter.
-- [Neon](https://github.com/ChimeHQ/Neon): A Swift library for efficient, flexible content-based text styling
+- [Neon](https://github.com/slsrepo/Neon): A Swift library for efficient, flexible content-based text styling
 - [Splash](https://github.com/JohnSundell/Splash): A fast, lightweight and flexible Swift syntax highlighter for blogs, tools and fun!
 - [SwiftHighlight](https://github.com/CreatureSurvive/SwiftHighlight): Syntax highlighting package written completely in Swift, no JavaScript.
-- [ThemePark](https://github.com/ChimeHQ/ThemePark): A Swift library for working with syntax highlighting/IDE themes
+- [ThemePark](https://github.com/slsrepo/ThemePark): A Swift library for working with syntax highlighting/IDE themes
 
 ## Search
 
@@ -98,7 +98,7 @@ The original title of this section was views that haven't been updated in more t
 
 ## LSP/LSIF/DAP
 
-- [DebugAdapterProtocol](https://github.com/ChimeHQ/DebugAdapterProtocol)
+- [DebugAdapterProtocol](https://github.com/johnrbent/DebugAdapterProtocol)
 - [langserver-swift](https://github.com/RLovelett/langserver-swift)
 - [LanguageClient](https://github.com/ChimeHQ/LanguageClient)
 - [LanguageServerProtocol](https://github.com/ChimeHQ/LanguageServerProtocol)
