@@ -3,6 +3,8 @@ A non-curated collection of tools for working with text on Apple platforms
 
 This exists to try to encourage collaboration, reduce redundant work, and generally help those working with text make better stuff. It is a list of libraries, packages, and tools geared towards people working with text on Apple platforms. Inclusion is **strictly** non-curated. I will not apply any filters to the listings here. But, just to be extra-clear is a list of **infrastructure**, not apps.
 
+If you know of a library or framework that should be added to the list, the easiest way to get it added is to go to [my contact page](https://swiftdevjournal.com/contact/) to send an email with a link and brief explanation of the library or framework. You can also submit a pull request.
+
 ## Views
 
 - [CodeEditTextView](https://github.com/CodeEditApp/CodeEditTextView) (macOS, SPM)
