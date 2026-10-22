@@ -13,6 +13,7 @@ If you know of a library or framework that should be added to the list, the easi
 - [MarkupEditor](https://github.com/stevengharris/MarkupEditor) (iOS/macCatalyst, SPM)
 - [MarkdownEditor](https://github.com/Pallepadehat/MarkdownEditor) (macOS, SPM)
 - [MetaTextKit](https://github.com/TwidereProject/MetaTextKit) (iOS, SPM)
+- [NoteKit](https://github.com/tfcace/notekit) (iOS/macOS, SPM)
 - [RichTextKit](https://github.com/danielsaidi/RichTextKit) (iOS/macOS/tvOS/watchOS/visionOS, SPM)
 - [Runestone](https://github.com/simonbs/Runestone) (iOS/visionOS, SPM)
 - [SourceView](https://github.com/ChimeHQ/SourceView) (macOS, SPM)
